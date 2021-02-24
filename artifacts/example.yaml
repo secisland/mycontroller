@@ -1,0 +1,7 @@
+apiVersion: mycontroller.secyu.com/v1
+kind: Devops
+metadata:
+  name: devops1
+spec:
+  deploymentName: devops1
+  replicas: 1
